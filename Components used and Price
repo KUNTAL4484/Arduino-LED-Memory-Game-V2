@@ -1,0 +1,28 @@
+Components used : -						Price
+
+1. Arduino NANO (1)						300
+
+2. Push button switch (4)				         10
+
+3. Resistor - 330 Ohms (4)				          4
+
+4. Vero Board / Zero PCB (1)			                 10
+	     or							 or
+   Breadboard							 70
+
+5. Piezo (1)							  5
+
+6. LED (4) (4 indivisual colours)				  4
+
+
+
+Others components : -
+
+If solder,
+
+1. Soldering equipments ( Solder paste, Soldering iron, Solder).
+2. Female headers for NANO.
+
+else 
+
+Jumpers / Wires.
